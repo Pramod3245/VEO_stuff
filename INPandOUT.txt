@@ -1,0 +1,545 @@
+Input -> {
+  "model_id": "string",
+  "feature": "string",
+  "prompt": "Create a short, energetic advertisement where a football player inspired by FIFA celebrates victory on the field, then highlights staying fresh and confident using a premium soap—blend sports action, sweat, freshness, and confidence into a catchy, 10–15 second ad.",
+  "target_audience_id": 0,
+  "theme_id": 0,
+  "target_platform_id": 0,
+  "script_generated": "string",
+  "scenes": "string",
+  "no_of_scenes": 3,
+  "max_time_per_scene": 3,
+  "total_duration": 9,
+  "resolution": "string",
+  "aspect_ratio": "string",
+  "start_frame": {
+    "type": "string",
+    "url": "string"
+  },
+  "end_frame": {
+    "type": "string",
+    "url": "string"
+  },
+  "media": [
+    {
+      "type": "string",
+      "url": "string"
+    }
+  ],
+  "repo": [
+    { "meta": {
+    "brand": "Rexona (Degree) US",
+    "region": "United States",
+    "media_type": "ad",
+    "product_line": "General",
+    "campaign_theme": "FIFA",
+    "target_segment": "General consumers",
+    "region_data_confidence": "low",
+    "generated_at": "2026-03-27T06:11:35.050748+00:00"
+  },
+  "brand_identity": {
+    "tone_of_voice": {
+      "summary": "The Degree brand's tone is unwavering, motivating, and acts as a champion, embodying a 'You've Got This' sidekick persona. It is confident, in-the-trenches, and hyped, reflecting a belief in hustle and potential, while also being meticulously approachable and straightforward.",
+      "adjectives": [
+        "unwavering",
+        "motivating",
+        "confident",
+        "hyped",
+        "approachable",
+        "straightforward"
+      ],
+      "writing_style_notes": "Communication should be precise and clear, making complex ideas approachable and claims straightforward, avoiding an exclusive or expert-level feel. It should empower consumers to feel ready and in control."
+    },
+    "brand_mission": "Degree's mission is to champion individuals who never stop hustling, ensuring sweat moves them forward by delivering nonstop sweat and odor protection, empowering them to achieve their goals.",
+    "brand_vision": "Degree's long-term vision is to inspire confidence in everyone, empowering them to move beyond personal and societal limits by providing trusted, nonstop sweat and odor protection, embodying the 'Not Done Yet' philosophy.",
+    "brand_values": [
+      "Determination",
+      "Reliability",
+      "Ambition",
+      "Performance",
+      "Effortless Precision"
+    ],
+    "brand_heritage": "Degree revolutionized the antiperspirant market in the 1990s with its pioneering body heat-activated technology. For decades, it has maintained a leading position in sweat and odor protection, consistently delivering powerful performance.",
+    "brand_positioning": "Degree positions itself for ambitious, goal-oriented consumers, offering superior efficacy and body-responsive protection that works as hard as they do, acting as a champion in their corner."
+  },
+  "audience": {
+    "primary_target": {
+      "demographic": "General consumers, expanding beyond high-performance athletes to include everyone who seeks to move beyond limits.",
+      "psychographic": "Passionate, ambitious goal-getters who believe in their potential, the reward of hard work, and are driven to achieve their next goal, fueled by grit and guided by goals.",
+      "lifestyle": "Hard-working hustlers, from everyday people to breakthrough athletes, who are constantly striving and moving, needing confidence to keep going.",
+      "pain_points": [
+        "Sweat and odor holding them back from performing or achieving goals",
+        "Lack of confidence due to body odor or wetness",
+        "Feeling out of control or unprepared"
+      ],
+      "motivations": [
+        "Achieving personal goals",
+        "Feeling confident and in control",
+        "Pushing personal limits",
+        "The reward of hard work and performance",
+        "Seeking reliable protection that matches their effort"
+      ]
+    },
+    "region_specific_insights": null
+  },
+  "product": {
+    "key_technologies": [
+      "Body heat-activated technology",
+      "Ultra Dry formulation"
+    ],
+    "primary_claims": [
+      "72h ANTI SWEAT & ODOR",
+      "Superior, always-on sweat and odor protection",
+      "Performance that never clocks out",
+      "Every angle coverage"
+    ],
+    "proof_points": [
+      "Pioneering body heat-activated technology introduced in the 90s",
+      "Designed to keep users drier than traditional sticks, sprays, or gels",
+      "Offers various protection levels (24/7, 72-hour, 3-in-1 anti-stain)"
+    ],
+    "product_line_notes": null
+  },
+  "creative_direction": {
+    "visual_identity": {
+      "color_palette_notes": "Diverse palette including teal, orange, purple, blue, silver, black, and white, with specific variations tied to fragrance and product line (men's/women's, Essential, Advanced, Max/Total).",
+      "typography_notes": null,
+      "imagery_style": "Imagery should reflect 'Effortless Precision' with clear, meticulous, and approachable design. Visuals should convey movement, hustle, and achievement, potentially featuring geometric shapes, chevron patterns, checkmark-like shapes, and stylized 'V' shapes with concentric curves.",
+      "design_principles": [
+        "Effortless Precision",
+        "Clear and meticulous design",
+        "Approachable presentation",
+        "Straightforward claims and simple hierarchy"
+      ]
+    },
+    "messaging_framework": {
+      "hero_message": "Degree provides performance that brings it, when you do, ensuring nonstop sweat and odor protection so you can achieve your goals and move beyond limits.",
+      "supporting_messages": [
+        "You've Got This: Degree is your champion and sidekick in every hustle.",
+        "Sweat is proof of your effort; Degree ensures it moves you forward, not holds you back.",
+        "Feel in control, confident, and ready to perform with 72-hour anti-sweat and odor protection."
+      ],
+      "call_to_action_style": "Direct and empowering, encouraging action and achievement, aligning with the 'You've Got This' and 'Not Done Yet' ethos. Should be confident and motivating."
+    },
+    "campaign_references": null,
+    "do_list": [
+      "Consistently and coherently appear at every touchpoint",
+      "Strive for 'Effortless Precision'",
+      "Make complex details clear through straightforward claims and a simple hierarchy",
+      "Empower consumers to feel ready, in control, and confident to perform and achieve goals"
+    ],
+    "dont_list": [
+      "Avoid an exclusive or expert-level tone in messaging"
+    ]
+  },
+  "sustainability_and_purpose": {
+    "commitments": null,
+    "purpose_messaging": null
+  },
+  "region_adaptation": {
+    "region": "United States",
+    "language_notes": null,
+    "cultural_sensitivities": null,
+    "local_market_strategy": null,
+    "region_specific_claims": null
+  },
+  "source_references": [
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 5,
+      "attribute": "tone_of_voice"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 8,
+      "attribute": "tone_of_voice"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 19,
+      "attribute": "tone_of_voice"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 11,
+      "attribute": "tone_of_voice"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 7,
+      "attribute": "tone_of_voice"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 5,
+      "attribute": "brand_mission"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 15,
+      "attribute": "brand_mission"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 8,
+      "attribute": "brand_mission"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 19,
+      "attribute": "brand_mission"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 7,
+      "attribute": "brand_mission"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 5,
+      "attribute": "brand_vision"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 8,
+      "attribute": "brand_vision"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 15,
+      "attribute": "brand_vision"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 7,
+      "attribute": "brand_vision"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 5,
+      "attribute": "brand_vision"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 5,
+      "attribute": "brand_values"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 8,
+      "attribute": "brand_values"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 19,
+      "attribute": "brand_values"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 11,
+      "attribute": "brand_values"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 15,
+      "attribute": "brand_values"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 5,
+      "attribute": "target_audience"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 8,
+      "attribute": "target_audience"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 15,
+      "attribute": "target_audience"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 19,
+      "attribute": "target_audience"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 5,
+      "attribute": "target_audience"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 5,
+      "attribute": "brand_positioning"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 8,
+      "attribute": "brand_positioning"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 11,
+      "attribute": "brand_positioning"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 6,
+      "attribute": "brand_positioning"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 15,
+      "attribute": "brand_positioning"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 4,
+      "attribute": "visual_identity"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 11,
+      "attribute": "visual_identity"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 25,
+      "attribute": "visual_identity"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 31,
+      "attribute": "visual_identity"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 21,
+      "attribute": "visual_identity"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 11,
+      "attribute": "product_dna"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 4,
+      "attribute": "product_dna"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 6,
+      "attribute": "product_dna"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 29,
+      "attribute": "product_dna"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 15,
+      "attribute": "product_dna"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 15,
+      "attribute": "key_claims"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 26,
+      "attribute": "key_claims"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 5,
+      "attribute": "key_claims"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 6,
+      "attribute": "key_claims"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 11,
+      "attribute": "key_claims"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 15,
+      "attribute": "campaign_history"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 5,
+      "attribute": "campaign_history"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 6,
+      "attribute": "campaign_history"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 11,
+      "attribute": "campaign_history"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 4,
+      "attribute": "campaign_history"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 5,
+      "attribute": "region_strategy"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 15,
+      "attribute": "region_strategy"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 8,
+      "attribute": "region_strategy"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 11,
+      "attribute": "region_strategy"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 6,
+      "attribute": "region_strategy"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 15,
+      "attribute": "sustainability"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 5,
+      "attribute": "sustainability"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 6,
+      "attribute": "sustainability"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 1,
+      "attribute": "sustainability"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 4,
+      "attribute": "sustainability"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 5,
+      "attribute": "brand_heritage"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 4,
+      "attribute": "brand_heritage"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 15,
+      "attribute": "brand_heritage"
+    },
+    {
+      "file": "Degree Brandverse FINAL .pdf",
+      "page": 19,
+      "attribute": "brand_heritage"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 4,
+      "attribute": "brand_heritage"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 4,
+      "attribute": "do_dont"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 11,
+      "attribute": "do_dont"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 15,
+      "attribute": "do_dont"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 21,
+      "attribute": "do_dont"
+    },
+    {
+      "file": "DEGREE_Pack_Playbook_2025-05-16.pdf",
+      "page": 5,
+      "attribute": "do_dont"
+    }
+  ],
+  "_qa_gap_analysis": {
+    "overall_confidence": "medium",
+    "null_fields": [
+      "audience.region_specific_insights",
+      "product.product_line_notes",
+      "creative_direction.visual_identity.typography_notes",
+      "creative_direction.campaign_references",
+      "sustainability_and_purpose.commitments",
+      "sustainability_and_purpose.purpose_messaging",
+      "region_adaptation.language_notes",
+      "region_adaptation.cultural_sensitivities",
+      "region_adaptation.local_market_strategy",
+      "region_adaptation.region_specific_claims"
+    ],
+    "weak_fields": [
+      "meta.product_line",
+      "meta.target_segment"
+    ],
+    "recommended_additional_data": "To improve the completeness and specificity of the brand attributes, the following additional data would be beneficial:\n1.  **Detailed Product Line Information**: Specifics on different Degree product lines (e.g., MotionSense, Clinical Protection, Men's, Women's), including their unique features, target sub-segments, and specific claims, to replace the 'General' product line and fill 'product.product_line_notes'.\n2.  **In-depth US Regional Market Insights**: Comprehensive data on US consumer behavior, cultural nuances, competitive landscape, and specific marketing strategies tailored for the US market. This would fill 'audience.region_specific_insights', 'region_adaptation.language_notes', 'region_adaptation.cultural_sensitivities', 'region_adaptation.local_market_strategy', and 'region_adaptation.region_specific_claims'.\n3.  **Brand Typography Guidelines**: Specific fonts, usage rules, and hierarchy for brand communications to fill 'creative_direction.visual_identity.typography_notes'.\n4.  **Specific Campaign Details**: Information on past or current campaigns beyond just 'FIFA', including objectives, creative executions, and key performance indicators, to fill 'creative_direction.campaign_references'.\n5.  **Sustainability and CSR Reports**: Details on Degree's environmental, social, and governance (ESG) commitments, initiatives, and purpose-driven messaging to fill 'sustainability_and_purpose.commitments' and 'sustainability_and_purpose.purpose_messaging'."
+  }
+}
+  ]
+}
+
+
+
+Output: -> {
+  "scenes": [
+    {
+      "scene": "scene1",
+      "description": "0.0s: The athletic male football player, sweat dripping from his brow, is captured in a dynamic medium close-up, his face beaming with an ecstatic, triumphant smile, eyes fixed upwards as if celebrating a goal. The camera is slightly low-angle, handheld, and subtly tracking forward, emphasizing his exhilaration. The background is a blurred, vibrant green football pitch under bright stadium lights, creating a halo effect around him. 1.2s: The camera quickly pulls back into a medium shot, revealing the player raising both arms high in a powerful victory pose, his chest heaving, teammates in blurred motion around him in the background. His dark blue jersey is visibly damp with sweat, clinging to his muscular frame. The lighting is dramatic, high-key, with strong backlighting from the stadium. 2.5s: As he finishes raising his arms, his gaze shifts slightly off-camera, a look of satisfied exhaustion transitioning into anticipation, his shoulders still broad and powerful, preparing for a quick cut.",
+      "duration_sec": 3,
+      "thumbnail": null
+    },
+    {
+      "scene": "scene2",
+      "description": "0.0s: A quick, seamless cut from the football field. The athletic male football player's strong arm, still in a similar, powerful upward motion from the previous scene, now reaches upwards towards a modern showerhead. Water streams down, creating dynamic splashes. The camera is a medium close-up, following the arm's movement. The environment is a sleek, minimalist shower with clean white tiles and brushed chrome fixtures. 1.5s: The camera smoothly pans down to a medium shot, focusing on his torso as he vigorously lathers a bar of premium, white soap across his chest and shoulders. Water cascades over him, mixing with the rich, foamy lather. His muscles ripple under the water, showcasing his athleticism. The lighting is bright and clean, emphasizing freshness, with subtle steam filling the air. 2.5s: He continues to scrub, a look of deep satisfaction and cleansing on his face, the lather thick and fragrant, preparing for a transition to full freshness.",
+      "duration_sec": 3,
+      "thumbnail": null
+    },
+    {
+      "scene": "scene3",
+      "description": "0.0s: The camera pushes in slightly on the athletic male football player's face, now completely clean and refreshed. His short dark hair is damp, and water droplets glisten on his skin. A confident, assured smile plays on his lips, his eyes sparkling with renewed energy. The lighting is soft and radiant, emanating from a hidden source, highlighting his clean complexion. 1.2s: The camera holds on a close-up as he subtly shifts his weight, his shoulders broad and posture upright, exuding complete confidence. He takes a deep, satisfied breath, his chest visibly expanding. The background is a soft, out-of-focus cool blue gradient, suggesting a clear, open space. 2.5s: He looks directly into the camera, a powerful, unwavering gaze, a subtle, almost imperceptible nod of self-assurance, the embodiment of freshness and readiness for his next challenge.",
+      "duration_sec": 3,
+      "thumbnail": null
+    }
+  ]
+}
